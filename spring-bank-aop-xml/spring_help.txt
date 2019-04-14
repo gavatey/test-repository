@@ -1,0 +1,24 @@
+spring-bank-app
+
+Account
+     accno (auto)
+     name
+     balance
+     mobile
+     email
+     pan
+     doc
+
+===========================
+spring-ems-app
+
+Employee
+      id(auto)
+      name
+      salary
+      mobile
+      email
+      doj 
+
+
+ 
